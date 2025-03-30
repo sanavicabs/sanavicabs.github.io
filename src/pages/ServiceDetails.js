@@ -87,7 +87,7 @@ function ServiceDetails() {
     }
   };
 
-  const { tableBg, headerBg, borderColor, textColor } = getTableColors();
+  const { tableBg, headerBg, borderColor} = getTableColors();
 
   // Define headers for each service
   const isAirportTaxi = serviceName === "Airport Taxi";

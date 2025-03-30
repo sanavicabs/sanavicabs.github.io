@@ -71,7 +71,7 @@ export default function HomePage() {
     };
 
     animationSequence();
-  }, [carControls, logoControls, curtainControls]);
+  }, [carControls, logoControls, curtainControls,showSplash]);
 
   useEffect(() => {
     // Handle scroll to section after navigation

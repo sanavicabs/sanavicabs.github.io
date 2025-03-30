@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sanavicabs.github.io",
+  "homepage": "https://sanavicabs.github.io/",
   "name": "SanaviCab",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
     "react-countup": "^6.5.3",
     "react-dom": "^18.2.0",
     "react-router-dom": "^7.1.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "react-scroll": "^1.9.0",
     "SanaviCab": "file:",
     "swiper": "^11.2.0",

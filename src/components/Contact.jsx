@@ -128,6 +128,7 @@ function Contact() {
             <Paper elevation={3}>
               <Box sx={{ height: '400px', width: '100%' }}>            
                 <iframe
+                 title="Google Maps Location" 
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.693402033475!2d77.59359177489216!3d12.927416687383968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae150042598fcb%3A0x9263f08a3be149a1!2ssanavi%20cabs!5e0!3m2!1sen!2sin!4v1736185299710!5m2!1sen!2sin"
                   width="100%"
                   height="100%"

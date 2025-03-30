@@ -5,7 +5,7 @@ import Layout from './components/Layout';
 
 function App() {
   return (
-    <Router basename="/SanaviCabs">
+    <Router basename="/">
       <div className="App">
         <Layout>
           <Routes>
