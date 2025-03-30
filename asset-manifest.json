@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe0be095.css",
+    "main.js": "/static/js/main.e1331bd7.js",
+    "static/js/488.b43dbe14.chunk.js": "/static/js/488.b43dbe14.chunk.js",
+    "static/media/about-us-video.mp4": "/static/media/about-us-video.bfebca450bb07a2b424d.mp4",
+    "static/media/airport.jpg": "/static/media/airport.d91bf85aa12450efdade.jpg",
+    "static/media/websiteLogo.png": "/static/media/websiteLogo.e66106b79b8afe96e5ff.png",
+    "static/media/local-cab-image.jpg": "/static/media/local-cab-image.79a1854bb286b24f79cf.jpg",
+    "static/media/local-taxi-image.jpg": "/static/media/local-taxi-image.55ef939f4a96b9b9b534.jpg",
+    "static/media/outstation-taxi-service.jpg": "/static/media/outstation-taxi-service.e50150150954ce97ef06.jpg",
+    "static/media/sarah.avif": "/static/media/sarah.2cd57aa2e6c292cf9c07.avif",
+    "static/media/taxi-service-contact-us.webp": "/static/media/taxi-service-contact-us.825a477b407d10f9178f.webp",
+    "index.html": "/index.html",
+    "main.fe0be095.css.map": "/static/css/main.fe0be095.css.map",
+    "main.e1331bd7.js.map": "/static/js/main.e1331bd7.js.map",
+    "488.b43dbe14.chunk.js.map": "/static/js/488.b43dbe14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe0be095.css",
+    "static/js/main.e1331bd7.js"
+  ]
+}
