@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fe0be095.css",
-    "main.js": "/static/js/main.b0cd8d74.js",
+    "main.js": "/static/js/main.3399cbb1.js",
     "static/js/488.b43dbe14.chunk.js": "/static/js/488.b43dbe14.chunk.js",
     "static/media/about-us-video.mp4": "/static/media/about-us-video.bfebca450bb07a2b424d.mp4",
     "static/media/airport.jpg": "/static/media/airport.d91bf85aa12450efdade.jpg",
@@ -13,11 +13,11 @@
     "static/media/taxi-service-contact-us.webp": "/static/media/taxi-service-contact-us.825a477b407d10f9178f.webp",
     "index.html": "/index.html",
     "main.fe0be095.css.map": "/static/css/main.fe0be095.css.map",
-    "main.b0cd8d74.js.map": "/static/js/main.b0cd8d74.js.map",
+    "main.3399cbb1.js.map": "/static/js/main.3399cbb1.js.map",
     "488.b43dbe14.chunk.js.map": "/static/js/488.b43dbe14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe0be095.css",
-    "static/js/main.b0cd8d74.js"
+    "static/js/main.3399cbb1.js"
   ]
 }
